@@ -1,6 +1,6 @@
 # Movie Next
 A web app where anyone can information about movies by popularity, by title and the newst movies.
-- [Web App](https://realcheapny.netlify.app/)
+- [Web App](https://4movies-app.netlify.app/)
 
 ## Technologies Used
 - CSS
@@ -13,4 +13,5 @@ A web app where anyone can information about movies by popularity, by title and 
 - Landing
 ![Home](https://raw.githubusercontent.com/electrone901/movies-app/main/img/home.png "Home")
 
+- Search
 ![Search](https://raw.githubusercontent.com/electrone901/movies-app/main/img/search.png "Search")
